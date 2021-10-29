@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+/* 函数式组件 */
 function App() {
   return (
     <div className="App">
